@@ -33,4 +33,4 @@ Fish has abbreviations (`abbr`) but they normally require manual typing, do not 
 You can install `addabbr` with a single command:
 
 ```bash
-curl -sSL https://raw.githubusercontent.com/<username>/addabbr/main/install.sh | bash
+curl -sSL https://raw.githubusercontent.com/<username>/addabbr/main/install.sh](https://raw.githubusercontent.com/amir0zx/addabbr-fish/refs/heads/main/addabbr-installer.sh | bash
